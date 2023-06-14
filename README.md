@@ -35,7 +35,7 @@ node index.js
 ```
 
 ## Credits
-I'm proud to present READMEgenerator, created by yours truly, Thien Trinh. It's a result of my passion for simplifying the lives of fellow web developers.
+Course provided solution code in GITLAB
 
 ## License
 This project is licensed under the [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0). Feel free to explore and adapt the code to suit your needs. See the license for more details.  
