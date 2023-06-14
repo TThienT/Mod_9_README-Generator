@@ -28,6 +28,9 @@ Let me guide you on how to use READMEgenerator:
 3. Type "node index.js" in the terminal.
 4. Answer a series of user-friendly questions to configure your README file exactly the way you want it.
 
+## Video Tutorial
+https://drive.google.com/file/d/11utRsJhM7Vaoj0fA_-TWYUIUtVMQKJMY/view?usp=sharing
+
 ## Tests
 You can test the application by executing the following command in your terminal:
 ```
