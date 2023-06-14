@@ -38,7 +38,7 @@ node index.js
 ```
 
 ## Credits
-Course provided solution code in GITLAB
+Bootcamp Provided solution code from Course's GitLab
 
 ## License
 This project is licensed under the [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0). Feel free to explore and adapt the code to suit your needs. See the license for more details.  
